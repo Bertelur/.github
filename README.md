@@ -1,5 +1,3 @@
-# .github
-
 # Warehouse Management & B2B Ordering Platform
 
 A unified platform for managing products, inventory, orders, payments, and financial reporting for B2B operations.  
